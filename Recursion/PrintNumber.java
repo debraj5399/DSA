@@ -1,5 +1,3 @@
-package Recursion;
-
 public class PrintNumber {
     public static void print1toNBackTrack(int N){
         if(N==0){
